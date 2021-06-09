@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**Yrobot/Yrobot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://gitee.com/yrobot/images/raw/master/2021-06-09/my-profile-16-47-21.svg)
 
-Here are some ideas to get you started:
+<style>
+  * {
+    text-align: center;
+  }
+</style>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## todo:
+
+个人形象展示   
+个人技能展示  
+可以接的外包内容  
+个人联系方式  
+...参看别的独立开发者的一些自我介绍的点  
