@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src='./Profile-Container.svg' align='center'/>
+<img src='./Profile-Container.svg' align='center' width='100%'/>
 
 ## todo:
 
