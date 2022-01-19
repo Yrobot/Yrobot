@@ -35,6 +35,6 @@ jobs:
           # Your Wakatime API Key
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # Displays the week number and days in Readme as title
-          SHOW_TITLE: false
+          SHOW_TIME: false
           # Add a commit message of your choice
           COMMIT_MESSAGE: Waka Updated the Readme
