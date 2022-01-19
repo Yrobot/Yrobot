@@ -3,6 +3,8 @@ I am Yrobot :snowboarder:
 
 <!--START_SECTION:waka-->
 ```text
+Week: 12 January, 2022 - 18 January, 2022
+
 JavaScript   ███████████████████████████▓░░░░░░░░░░░░░   67.41 % 
 SCSS         █████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 Markdown     ███▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
