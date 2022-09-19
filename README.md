@@ -3,12 +3,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 August 2022 - To: 04 September 2022
+From: 11 September 2022 - To: 18 September 2022
 
-Markdown                     ████████████▓░░░░░░░░░░░░   50.86 %
-JavaScript                   █████████░░░░░░░░░░░░░░░░   35.48 %
-TypeScript                   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Other                        ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
+Markdown                     ███████████░░░░░░░░░░░░░░   44.66 %
+JavaScript                   ████████▓░░░░░░░░░░░░░░░░   34.89 %
+Other                        ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 %
 ```
 
 <!--END_SECTION:waka-->
