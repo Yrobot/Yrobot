@@ -3,11 +3,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 November 2022 - To: 27 November 2022
+From: 27 November 2022 - To: 04 December 2022
 
-Markdown                     █████████████████████▓░░░   87.00 %
-TypeScript                   ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Markdown                     ████████████▓░░░░░░░░░░░░   51.28 %
+JavaScript                   ████████████▒░░░░░░░░░░░░   48.72 %
 ```
 
 <!--END_SECTION:waka-->
