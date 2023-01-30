@@ -3,13 +3,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 January 2023 - To: 22 January 2023
-
-JavaScript                   █████████████▓░░░░░░░░░░░   54.57 %
-Markdown                     ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
-SCSS                         ███▓░░░░░░░░░░░░░░░░░░░░░   14.67 %
-TypeScript                   █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Other                        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
