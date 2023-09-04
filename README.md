@@ -3,13 +3,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2023 - To: 27 August 2023
+From: 27 August 2023 - To: 03 September 2023
 
-JavaScript                   ████████████▒░░░░░░░░░░░░   49.97 %
-TypeScript                   ██████▓░░░░░░░░░░░░░░░░░░   26.37 %
-Markdown                     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.79 %
-Other                        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-SCSS                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Markdown                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
