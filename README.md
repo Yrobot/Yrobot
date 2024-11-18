@@ -3,11 +3,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2024 - To: 10 November 2024
+From: 10 November 2024 - To: 17 November 2024
 
-TypeScript                   ██████████████▓░░░░░░░░░░   58.94 %
-JavaScript                   █████████▒░░░░░░░░░░░░░░░   37.14 %
-Markdown                     █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
+Markdown                     ████████████▒░░░░░░░░░░░░   49.60 %
+JavaScript                   ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+TypeScript                   ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
+Other                        ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
+JSON                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
