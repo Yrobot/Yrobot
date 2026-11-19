@@ -35,6 +35,7 @@
 
 | 项目 / Project | 简介 / Overview | 技术栈 / Tech | 链接 / Links |
 | :--- | :--- | :--- | :--- |
+| **职得 (ZHIDE)** | 面向求职者的多 Agent AI 求职辅助平台。以个人职业知识库为基石，通过对话式交互提供岗位深度匹配、风险诊断与求职流程管理。 | Next.js 16, React 19, TypeScript, Tailwind CSS v4, Multi-Agent | [Website](https://zhide.yrobot.top) |
 | **SnapWell (快记健康)** | 让健康成为轻松习惯。主打一句话自然语言记账、离线优先与自动化营养数据清洗的产品。 | Taro 4.2, Next.js 16, AntD 6, Drizzle, PostgreSQL | [Website](https://snap-well.yrobot.top) |
 | **Brainglue.AI** | 面向创意工作者的多模型 AI 对话与提效工作流平台。担任前端架构负责人从 0 到 1 搭建。 | Next.js, TypeScript, Zustand, Tailwind, PWA | [Website](https://www.brainglue.ai/) |
 | **DevzAI** | AI 驱动的企业级软件开发平台（Dreamer / Forge / Sentry）。主导前端架构 2 年+，支持 1000+ 并发实时协同。 | React, Redux, WebSocket, AntD, D3.js, Three.js | [Website](https://www.devz.ai/) |
